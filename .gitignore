@@ -187,3 +187,4 @@ memory.db
 6_mcp/accounts.db
 6_mcp/memory/*.db
 /wj_folder/screenshots/*.png
+/3_crew/wj_*/*
